@@ -1,4 +1,4 @@
 # kivy_app
 my first mobile app 
 
-it was creating with python and kivy
+it was created by python and kivy
