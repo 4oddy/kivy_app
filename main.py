@@ -72,7 +72,7 @@ class MyApp(App):
 		except ValueError:
 			self.ip_inp.text = "Incorrect IP!"
 			self.ip = ''
-		else:
+		finally:
 			try:
 				self.port = int(self.port)
 				if self.port > 65536 or 0 > self.port:
