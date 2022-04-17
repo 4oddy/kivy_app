@@ -1,4 +1,4 @@
 # kivy_app
 Python and kivy
 
-Using python: 3.8
+Using python3.8
